@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  background-color: rgb(7, 7, 7);
+}
+
+#root {
+  padding: 3rem;
+  text-align: center;
+}
+
+#root h1 {
+  font-family: "Press Start 2P", Consolas, monospace;
+  color: white;
+}
+
+#root canvas {
+  display: block;
+  margin: 0 auto;
+  border-radius:  4px;
+  background-color: rgb(8, 8, 8);
+}
